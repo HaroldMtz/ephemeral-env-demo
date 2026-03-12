@@ -1,0 +1,12 @@
+{
+  "name": "ephemeral-env-demo",
+  "version": "1.0.0",
+  "description": "Aplicación simple en Node.js desplegada en Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
