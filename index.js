@@ -11,7 +11,7 @@ app.get('/status', (req, res) => {
   res.json({
     app: 'Ephemeral Environment Demo',
     status: 'ok',
-    platform: 'Heroku'
+    platform: 'Render'
   });
 });
 
